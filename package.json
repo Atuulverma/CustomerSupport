@@ -1,0 +1,16 @@
+{
+  "name": "invoicer",
+  "version": "1.0.0",
+  "description": "Client Management",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies":{
+    "express":"*",
+    "mongoose":"*",
+    "body-parser":"*"
+  },
+  "author": "Atul Verma",
+  "license": "ISC"
+}
